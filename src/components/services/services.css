@@ -1,0 +1,51 @@
+.services {
+  background-color: #f8f9fc;
+  padding-top: 4%;
+  padding-bottom: 6%;
+}
+#box1 {
+  box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px,
+    rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset;
+}
+#box2 {
+  box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px,
+    rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset;
+}
+#box3 {
+  box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px,
+    rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset;
+}
+#box4 {
+  box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px,
+    rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset;
+}
+#box5 {
+  box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px,
+    rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset;
+}
+#box6 {
+  box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px,
+    rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset;
+}
+#box7 {
+  box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px,
+    rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset;
+}
+#box8 {
+  box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px,
+    rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset;
+}
+#box9 {
+  box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px,
+    rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset;
+}
+
+.box:hover {
+  transform: scale(0.999);
+  /* border: 3px solid rgb(247, 247, 71); */
+  background-color: rgb(246, 222, 87);
+  box-shadow: rgb(246, 222, 87) 0px 4px 16px,
+    rgba(17, 17, 26, 0.05) 0px 8px 32px;
+  transition: background-color 0.25s linear;
+  opacity: 1 !important;
+}

@@ -1,0 +1,41 @@
+.sample{
+    background-color: #F8F9FC;
+    padding-top: 15px;
+    padding-bottom: 6%;
+    margin-bottom: 5%;
+}
+#my_card1{
+    box-shadow: rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 2px 16px 0px;
+    /* box-shadow: rgb(246, 222, 87) 0px 2px 20px 0px, rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 0px 0px 1px inset; */
+    /* box-shadow: rgb(246, 222, 87) 0px 13px 27px -5px, rgba(232, 216, 77, 0.3) 0px 8px 16px -8px; */
+}
+#my_card2{
+    box-shadow: rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 2px 16px 0px;
+    /* box-shadow: rgb(246, 222, 87) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px; */
+    /* box-shadow: rgb(246, 222, 87) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
+}
+#my_card3{
+    box-shadow: rgb(246, 222, 87) 0px 2px 4px 0px, rgb(246, 222, 87) 0px 2px 16px 0px;
+    /* box-shadow: rgb(246, 222, 87) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px; */
+    /* box-shadow: rgb(246, 222, 87) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
+}
+.card{
+    height: 300px;
+
+}
+ /* .card:hover{
+    transition: ease-in-out 0.3s;
+    border: 0.2px solid  rgb(246, 220, 72);
+    box-shadow: rgb(180, 180, 37) 0px 13px 27px -5px, rgb(246, 222, 87) 0px 8px 16px -8px;
+    
+}  */
+.my_para{
+    text-align: center;
+    color: #000000;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+}
+.color{
+    background: linear-gradient(to right, #4361a3, #4d98c4, #4d98c4);
+    -webkit-background-clip: text;
+}

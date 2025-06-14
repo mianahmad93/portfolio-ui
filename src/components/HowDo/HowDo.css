@@ -1,0 +1,39 @@
+.how_do {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 8%;
+  margin-bottom: 5%;
+}
+.circle {
+  border-radius: 10px;
+  height: 160px;
+  border: 1px solid rgb(240, 209, 34);
+  box-shadow: rgb(250, 225, 84) 0px 2px 20px -8px, rgb(246, 222, 87) 0px 4px 10px -4px;
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,  0px 8px 16px -8px; */
+}
+/* .circle:hover {
+  box-shadow: rgb(47, 47, 133) 0px 0.9px 3px 0px,rgb(47, 47, 133)  0px 0px 0px 0.4px;
+  transition: ease-in-out 0.3s;
+  border:0.2px solid rgb(47, 47, 133);
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+} */
+.circle_one {
+  margin-top: 3%;
+  margin-left: 4%;
+}
+#head {
+  font-weight: bold;
+  margin-left: 2%;
+  font-size: 24px;
+}
+.txt {
+  font-family: "Poppins", Sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 10%;
+  margin-right: 2%;
+  width: 90%;
+  color: #7a7a7a;
+  text-align: center;
+}

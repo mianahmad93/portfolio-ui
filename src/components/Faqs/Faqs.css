@@ -1,0 +1,26 @@
+.faqs_page{
+    margin-left: 10%;
+    margin-right: 10%;
+    /* margin-top: 5%; */
+}
+
+
+
+
+.faqs_div h3{
+    padding: 7px 5px;
+    text-align: center;
+    color: white;
+}
+.faq_main{
+    margin-top: 2%;
+}
+
+.faqs_accordian{
+    margin-top: 3%;
+}
+.accordian_summary{
+    border-left: 2px solid rgb(51, 51, 166);
+}
+
+

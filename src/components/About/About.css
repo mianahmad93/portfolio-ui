@@ -1,0 +1,18 @@
+.icons {
+  margin-top: 30px;
+}
+.icon_div{
+    display: flex;
+    margin-left: 5px;
+    padding: 5px 5px;
+    height: 45px;
+    width: 45px;
+    border-radius: 45px;
+    /* background-color: #F8F9Fc; */
+}
+#about{
+  scroll-behavior: smooth;
+}
+.my_icons{
+  background: linear-gradient(to right, rgb(240, 208, 27), rgb(240, 209, 34), rgb(246, 213, 29));
+}
