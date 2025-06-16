@@ -33,7 +33,7 @@ const Home = () => {
               gutterBottom
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-              doeiusmod tempor incididunt ut labore et dolore magna aliqua
+              doeiusmod tempor incididunt ut labore et dolore magna aliqua.
             </Typography>
             <Link
               style={{ cursor: "pointer" }}
